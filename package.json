@@ -1,0 +1,24 @@
+{
+  "name": "apple-pay-token-decrypt",
+  "version": "1.0.0",
+  "description": "[![npm version](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg) [![npm version](https://img.shields.io/npm/v/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://www.npmjs.com/package/apple-pay-signature-and-decrypt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apple-pay",
+    "node",
+    "javascript"
+  ],
+  "author": "Mohamed Oussidi",
+  "license": "MIT",
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "asn1js": "^2.0.26",
+    "ec-key": "0.0.4",
+    "node-webcrypto-ossl": "^2.1.0",
+    "pkijs": "^2.1.88"
+  },
+  "homepage": "https://github.com/dibsyhq/apple-pay-token-decrypt#readme"
+}
