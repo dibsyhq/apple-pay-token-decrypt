@@ -1,7 +1,7 @@
 {
   "name": "apple-pay-token-decrypt",
   "version": "1.0.0",
-  "description": "[![npm version](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg) [![npm version](https://img.shields.io/npm/v/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://www.npmjs.com/package/apple-pay-signature-and-decrypt)",
+  "description": "[![npm version](https://img.shields.io/npm/dt/apple-pay-token-decrypt.svg?style=flat-square)](https://img.shields.io/npm/dt/apple-pay-token-decrypt.svg) [![npm version](https://img.shields.io/npm/v/apple-pay-token-decrypt.svg?style=flat-square)](https://www.npmjs.com/package/apple-pay-token-decrypt)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

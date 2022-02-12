@@ -1,7 +1,7 @@
 # Apple pay payment token signature validation and decryption
 
-[![npm version](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://img.shields.io/npm/dt/apple-pay-signature-and-decrypt.svg)
-[![npm version](https://img.shields.io/npm/v/apple-pay-signature-and-decrypt.svg?style=flat-square)](https://www.npmjs.com/package/apple-pay-signature-and-decrypt)
+[![npm version](https://img.shields.io/npm/dt/apple-pay-token-decrypt.svg?style=flat-square)](https://img.shields.io/npm/dt/apple-pay-token-decrypt.svg)
+[![npm version](https://img.shields.io/npm/v/apple-pay-token-decrypt.svg?style=flat-square)](https://www.npmjs.com/package/apple-pay-token-decrypt)
 
 A node app to handle apple pay payment token signature validation and decryption
 
